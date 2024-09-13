@@ -1,0 +1,7 @@
+- I was just experiencing in different programming languages which behaves the fastest to download thousands of files.
+- Don't get confused seeing `.js, .py, .php` and yada yada in just one repo.
+- I will be adding a benchmarking how each language and script behaves for the same functionality.
+- For now, the Python is the winner./
+- In laravel/php, I managed to reach to the 1.5x time than Python (Php doesn't have asyncronus operations that easily. Guzzle is our best bet.)
+- NodeJS, I was able to achieve in 10% more time than Pythonb but didn't make any improvements
+- If you stumble upon this repo ever, you will have to of course install all the packages that your command line complains about. At some point, I should revise this README but i don't know

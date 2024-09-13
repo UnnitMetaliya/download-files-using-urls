@@ -1,0 +1,17 @@
+{
+  "name": "files-downloader",
+  "version": "1.0.0",
+  "description": "A fast Node.js script to download files concurrently.",
+  "main": "downloadFiles.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node downloadFiles.mjs"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "fs-extra": "^11.2.0",
+    "nodejs-file-downloader": "^4.13.0",
+    "p-limit": "^6.1.0",
+    "progress": "^2.0.3"
+  }
+}
